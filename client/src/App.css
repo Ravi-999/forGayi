@@ -1,0 +1,26 @@
+.body{
+  font-family: "Spectra";
+  font-weight: bold;
+  background-image: url('https://t4.ftcdn.net/jpg/04/50/66/93/360_F_450669374_oSSE40f68z91hjgsezSjTnS640WHP4x7.jpg');
+  background-size: cover;
+  color: white;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.shopping-card {
+  justify-content: flex-start;
+  padding: 20px 20px;
+  font-size: 40px;
+  font-family: spectra;
+  font-weight: bold;
+  color: white;
+  letter-spacing: 2px;
+}
+
+.product-item {
+  padding: 20px;
+}
